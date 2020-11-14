@@ -1,4 +1,4 @@
-# Javascript Excercise: Kelvin & Celsius conversion
+# Codecademy Excercise: Javascript Conditional Syntax
 
 ## Kelvin Weather
 Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered weather prediction.
