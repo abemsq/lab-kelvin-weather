@@ -10,8 +10,6 @@ With our knowledge of JavaScript, let’s convert Kelvin to Celsius, then to Fah
 Kelvin, Celsius, and Fahrenheit thermometers
 For example, 283 K converts to 10 °C which converts to 50 °F
 
-![Tux, the Linux mascot](https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-introduction/kelvin-weather/Kelvin%20Thermometers.svg)
-
 ```
 let kelvin = 0;
 // constant value of Kelvin.
@@ -34,3 +32,5 @@ newton = Math.floor(newton);
 
 console.log(`The temperature is ${newton} degrees Newton.`);
 ```
+
+![Tux, the Linux mascot](https://content.codecademy.com/projects/introduction-to-javascript/learn-javascript-introduction/kelvin-weather/Kelvin%20Thermometers.svg)
